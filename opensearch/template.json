@@ -1,0 +1,19 @@
+{
+  "index_patterns": ["flowlog*"],
+  "template": {
+    "settings": { "number_of_shards": 1, "number_of_replicas": 0 },
+    "mappings": {
+      "properties": {
+        "time": { "type": "date", "format": "epoch_millis" },
+        "timestamp": { "type": "long" },
+        "timestamp_ns": { "type": "long" },
+        "service": { "type": "keyword" },
+        "level": { "type": "keyword" },
+        "operation_id": { "type": "keyword" },
+        "instance_id": { "type": "keyword" },
+        "message": { "type": "text" },
+        "params": { "type": "text" }
+      }
+    }
+  }
+}
