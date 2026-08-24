@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="flowlog" width="340">
+  <img src="assets/banner.jpg" alt="flowlog - service runner and log viewer" width="100%">
 </p>
 
 <p align="center">
