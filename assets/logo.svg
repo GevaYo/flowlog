@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 120" width="340" height="120" role="img" aria-label="flowlog">
+  <rect x="0.5" y="0.5" width="339" height="119" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <g fill="none" stroke-width="5" stroke-linecap="round">
+    <path stroke="#f97316" d="M28 40h32"/>
+    <path stroke="#22c55e" d="M28 60h32"/>
+    <path stroke="#38bdf8" d="M28 80h32"/>
+    <path stroke="#f97316" d="M60 40q18 0 26 20"/>
+    <path stroke="#22c55e" d="M60 60h26"/>
+    <path stroke="#38bdf8" d="M60 80q18 0 26-20"/>
+    <path stroke="#e6edf3" stroke-width="6" d="M86 60h32"/>
+  </g>
+  <text x="136" y="60" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="600" dominant-baseline="central">flowlog</text>
+</svg>

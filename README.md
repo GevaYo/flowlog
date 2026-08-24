@@ -1,4 +1,11 @@
-# flowlog
+<p align="center">
+  <img src="assets/logo.svg" alt="flowlog" width="340">
+</p>
+
+<p align="center">
+  <b>Stop tailing eight terminal tabs.</b><br>
+  Every local service log, merged into one timestamp-ordered stream you can follow, filter, and search.
+</p>
 
 A Go CLI that tails the `rapyd.log` files of your locally running services,
 groups multi-line entries back into single logical entries, and merges them into
